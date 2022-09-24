@@ -1,0 +1,18 @@
+.work {
+  padding-top: 0;
+}
+
+.work-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
+  color: var(--primary-text-color);
+  margin-bottom: 50px;
+}
+
+.work-photo {
+  display: flex;
+  column-gap: 30px;
+}
